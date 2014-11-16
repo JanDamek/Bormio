@@ -1,0 +1,88 @@
+Setting:
+  Setting_1:
+    SiteName: Bormio
+    email: ''
+    tel: ''
+    mobil: ''
+    pracovni_doba: ''
+    ulice: ''
+    mesto: ''
+    web_adr: ''
+    ga_code: ''
+    google_overeni: ''
+    created_at: '2012-09-24 16:50:51'
+    updated_at: '2012-09-27 19:02:26'
+Stranka:
+  Stranka_1:
+    name: Bormio
+    link_h1: www.caitalia.cz
+    title_seo: Bormio
+    keywords: 'bormio, lyžovaní bormio, alta valtellina, dovolená bormio, hotely bormio'
+    description: 'Stránka věnována italskému městečku Bormio. Věhlasnému lyžařskému středisku v rámci oblasti Alta Valtellina.'
+    title_str: Bormio
+    top_img: /uploads/mapa_lyzovani.jpg
+    top_img_title: 'Mapa sjezdovek - Bormio, Alta Valtellina'
+    top_img_alt: 'Mapa sjezdovek - Bormio, Alta Valtellina'
+    popis_levy: '<p>Bormio je starobylé městečko nacházející se v nejsevernějším cípu Lombardie pod vrcholem hory Cima Bianca. Leží v oblasti Alta Valtelina uprostřed Národního parku Stelvio v Brestských Dolomitech. Městečko obklopené horskými štíty Vás okouzlí nejen překrásnou krajinou a přírodou ale především velmi dobrými podmínkami pro trávení jak letní, tak i zimní dovolené. Možnosti ubytování jsou zde velmi široké, od apartmánů, horských chat až po hotely. Pokud Bormio navštívíte v některém z letních měsíců určitě si užijete místní turistické horské stezky nebo rozsáhlé cyklotrasy pro horská kola. V létě i v zimě je pak možno navštívit proslulé místní lázně.</p>'
+    popis_pravy: '<p>Bormio je také známo jako jedno z míst, kde se každoročně koná jeden z podniků Světového poháru v alpském lyžování mužů. Každý rok se tak na sjezdovce Stelvio koná závod ve sjezdu, nicméně mimo období závodu je sjezdovka Stelvio celoročně dostupná i pro amatérské lyžaře, kteří si tak mohou vyzkoušet pocit profesionálního lyžaře. I ostatní sjezdové tratě jsou však vždy perfektně připravené, a stejně tak jako v ostatních lyžařských střediscích, umožňují různé kombinace tras s rozdílnými obtížnostmi. Navíc je možné si zakoupit i rozšířený skipass a užít si lyžování i v sousedním Livignu, Santa Caterině a San Colombanu. Všechna tato střediska jsou vzájemně propojena skibusy, proto doprava mezi nimi je velice snadná a dostupná.</p>'
+    region: Lombardie
+    vzdalenost: '667'
+    img1: /uploads//fotogalerie/miniatury/borm2.jpg
+    img1_title: 'Bormio - pohled na město'
+    img1_alt: 'Bormio - pohled na město'
+    img2: /uploads//fotogalerie/miniatury/borm4.jpg
+    img2_title: 'centrum Bormia'
+    img2_alt: 'centrum Bormia'
+    img3: /uploads//fotogalerie/miniatury/borm1.jpg
+    img3_title: ''
+    img3_alt: ''
+    img4: /uploads//fotogalerie/miniatury/borm3.jpg
+    img4_title: 'lážně v Bormiu'
+    img4_alt: 'lážně v Bormiu'
+    promo1_title: 'Chalet Gardenia'
+    promo1_img: /uploads//zajezdy/gardenia_hlavni_zima.JPG
+    promo1_img_title: ''
+    promo1_img_alt: ''
+    promo1_star: null
+    promo1_popis: '<p>Rodinná rezidence ležící nedaleko centra Bormia. Zastávka skibusu vzdálena pouze 20 metrů. Apartmány až pro 6 osob.</p>'
+    promo1_cena: '8 990 Kč/apartmán'
+    promo1_link: 'http://www.caitalia.cz/zajezd/chalet-gardenia.html'
+    promo2_title: 'Chalet Alberti'
+    promo2_img: /uploads//zajezdy/chalet_alberti_hlavni_zima.JPG
+    promo2_img_title: ''
+    promo2_img_alt: ''
+    promo2_star: null
+    promo2_popis: '<p>Nedávno zrekonstruované chalet skládající se ze dvou blízkostojících budov. Apartmány několika typologií až pro 7 osob.</p>'
+    promo2_cena: '9 990 Kč/apartmán'
+    promo2_link: 'http://www.caitalia.cz/zajezd/chalet-alberti.html'
+    promo3_title: 'Chalet Stelle di Neve'
+    promo3_img: /uploads//zajezdy/chalet_stelle_di_neve_hlavni_zima.jpg
+    promo3_img_title: ''
+    promo3_img_alt: ''
+    promo3_star: null
+    promo3_popis: '<p>Moderní rezidence nedaleko centra Bormia. Parkování a Wifi v ceně. Různé typy apartmánů až pro 8 osob.</p>'
+    promo3_cena: '9 450 Kč/apartmán'
+    promo3_link: 'http://www.caitalia.cz/zajezd/chalet-stelle-di-neve.html'
+    promo4_title: 'Hotel Funivia***'
+    promo4_img: /uploads//zajezdy/funivia_hlavni_zima.jpg
+    promo4_img_title: ''
+    promo4_img_alt: ''
+    promo4_star: null
+    promo4_popis: '<p>Hotel přímo v centru Bormia. Lanovka Bormio 2000 vzdálena pouze pár desítek metrů. Vstup do hotelového wellness v ceně.</p>'
+    promo4_cena: '9 620 Kč/osoba'
+    promo4_link: 'http://www.caitalia.cz/zajezd/hotel-funivia.html'
+    baner1_img: ''
+    baner1_img_title: ''
+    baner1_img_alt: ''
+    baner1_link: ''
+    baner2_img: ''
+    baner2_img_title: ''
+    baner2_img_alt: ''
+    baner2_link: ''
+    baner3_img: /uploads/bannery/kurzy_italstiny.jpg
+    baner3_img_title: 'Kurzy italštiny Praha - Societa Dante Alighieri'
+    baner3_img_alt: 'Kurzy italštiny Praha - Societa Dante Alighieri'
+    baner3_link: 'http://www.dantepraga.cz'
+    created_at: '2012-09-24 16:50:51'
+    updated_at: '2012-11-01 19:41:45'
+    slug: homepage

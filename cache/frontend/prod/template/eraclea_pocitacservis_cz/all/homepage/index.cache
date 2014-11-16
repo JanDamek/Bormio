@@ -1,0 +1,107 @@
+001330595260001330508860C:13:"sfWebResponse":6513:{a:11:{i:0;s:5584:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="cs"> 
+    <head>
+        <meta http-equiv="content-language" content="cs" /> 
+        <meta name="author" content="Michal Kořínek" /> 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="language" content="cs" />
+<meta name="robots" content="index, follow" />
+        <title></title>
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css" />
+        <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/js/site.js"></script>
+<script type="text/javascript" src="/js/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.10.custom.min.js"></script>
+<script type="text/javascript" src="/js/scriptaculous-js-1.9.0/lib/prototype.js"></script>
+<script type="text/javascript" src="/js/scriptaculous-js-1.9.0/src/scriptaculous.js?load=effects,builder"></script>
+    </head>
+    <body>
+        <!-- HEADRE -->
+<div id="header">
+    <h1><a href="/" class="dunanad"><span>Duna Verde</span></a><p>severoitalské letovisko</p></h1>
+</div>
+<!-- END HEADRE -->
+
+
+<div id="page">  
+    <!-- CONTENT -->
+    <div id="content">
+        <div id="obsah"> 
+            <h2>Eraclea Mare</h2>
+            <img alt="" title="" src="/img/689f6e6acc0052452ce5cef155a43b7b/859x252/empty.gif" />            <div id="leva">
+                <p></p>
+            <img alt="" title="" class="obrazek" src="/img/689f6e6acc0052452ce5cef155a43b7b/203x104/empty.gif" />            <img alt="" title="" class="obrazek" src="/img/689f6e6acc0052452ce5cef155a43b7b/203x104/empty.gif" />            <img alt="" title="" class="obrazek" src="/img/689f6e6acc0052452ce5cef155a43b7b/203x104/empty.gif" />            <img alt="" title="" class="obrazek" src="/img/689f6e6acc0052452ce5cef155a43b7b/203x104/empty.gif" />            </div>
+            <div id="prava">
+                <div class="region">
+                    Region: <strong></strong><br />
+                    Vzdálenost od Prahy: <strong> km</strong>
+                </div>
+                <p></p>
+            </div>
+
+            <div class="ubytovani">
+                <strong> Vybrané ubytovací kapacity v Duna Verde:</strong> <br><br>
+
+                <div class="zajezd" style="margin-right: 60px;">
+                    <div class="zajezd_obsah">
+                                                
+                        <img alt="" title="" src="/img/689f6e6acc0052452ce5cef155a43b7b/151x105/empty.gif" />                                                <h3></h3>
+                        <p></p>
+                    </div>
+                    <div class="cena">Cena od: <strong></strong></div><a href="" class="butvice"><span>více informací</span></a>
+                </div>
+
+                <div class="zajezd">
+                    <div class="zajezd_obsah">
+                                                
+                        <img alt="" title="" src="/img/689f6e6acc0052452ce5cef155a43b7b/151x105/empty.gif" />                                                <h3></h3>
+                        <p></p>
+                    </div>
+                    <div class="cena">Cena od: <strong></strong></div><a href="" class="butvice"><span>více informací</span></a>
+                </div>
+
+                <div class="zajezd" style="margin-right: 60px;">
+                    <div class="zajezd_obsah">
+                                                
+                        <img alt="" title="" src="/img/689f6e6acc0052452ce5cef155a43b7b/151x105/empty.gif" />                                                <h3></h3>
+                        <p></p>
+                    </div>
+                    <div class="cena">Cena od: <strong></strong></div><a href="" class="butvice"><span>více informací</span></a>
+                </div>
+
+                <div class="zajezd">
+                    <div class="zajezd_obsah">
+                                                
+                        <img alt="" title="" src="/img/689f6e6acc0052452ce5cef155a43b7b/151x105/empty.gif" />                                                <h3></h3>
+                        <p></p>
+                    </div>
+                    <div class="cena">Cena od: <strong></strong></div><a href="" class="butvice"><span>více informací</span></a>
+                </div>  
+            </div>
+
+            <div class="banners">
+                <div class="banner" style="margin-right: 30px;"><img src="/images/banner.jpg" alt="banner" title="Banner" border="0" height="100" width="310"></div>
+                <div class="banner" style="margin-right: 30px;"><img src="/images/banner.jpg" alt="banner" title="Banner" border="0" height="100" width="310"></div>
+                <div class="banner"><img src="/images/banner.jpg" alt="banner" title="Banner" border="0" height="100" width="310"></div>
+            </div>
+
+            <div class="seo">
+                <p>
+                    DOVOLENÁ DUNA VERDE - ZÁJEZDY DUNA VERDE - POBYTY DUNA VERDE - UBYTOVÁNÍ DUNA VERDE - APARTMÁNY DUNA VERDE
+                </p>
+            </div>
+
+        </div>
+    </div>
+    <!-- END CONTENT -->
+
+    <!-- FOOTER -->
+    <div id="footer">
+        Copyright © 2012 Cestovní agentura Italia v.o.s. | www.caitalia.cz | kontakt   
+    </div>
+    <!-- END FOOTER -->
+
+</div>    </body>
+</html>
+";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;b:0;i:5;a:3:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";s:7:"Expires";s:29:"Thu, 01 Mar 2012 09:47:40 GMT";s:13:"Cache-Control";s:13:"max-age=86400";}i:6;a:2:{s:8:"language";s:2:"cs";s:6:"robots";s:13:"index, follow";}i:7;a:1:{s:12:"Content-Type";s:24:"text/html; charset=utf-8";}i:8;a:3:{s:5:"first";a:0:{}s:0:"";a:1:{s:9:"style.css";a:0:{}}s:4:"last";a:0:{}}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:6:{s:19:"jquery-1.4.4.min.js";a:0:{}s:7:"site.js";a:0:{}s:27:"colorbox/jquery.colorbox.js";a:0:{}s:30:"jquery-ui-1.8.10.custom.min.js";a:0:{}s:39:"scriptaculous-js-1.9.0/lib/prototype.js";a:0:{}s:64:"scriptaculous-js-1.9.0/src/scriptaculous.js?load=effects,builder";a:0:{}}s:4:"last";a:0:{}}i:10;a:0:{}}}

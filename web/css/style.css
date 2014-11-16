@@ -1,0 +1,320 @@
+/*
+Theme Name: Name
+Theme URI: http://webovky.cz/
+Description: Vzhled pro
+Version: 1.0
+Author: Mcihal Kořínek
+Author URI: http://korinekmichal.cz/
+Tags: web, css, xhtml, javascript
+*/
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+body {
+  font-family: arial;
+  line-height: 1.6;
+  font-size: 15px;
+  color: #0c2c4a;
+  background: #cfd8e1 url(/images/header.jpg) top center no-repeat; 
+  
+}
+
+a {
+  color:#777777;
+  text-decoration: underline;
+  -webkit-transition-delay:initial;
+  -webkit-transition-duration:0.25s;
+  -webkit-transition-property:color;
+  -webkit-transition-timing-function:ease-in-out
+}
+
+a:hover {
+  color:#ff0042;
+  text-decoration: underline;
+  -webkit-transition-delay:initial;
+  -webkit-transition-duration:0.25s;
+  -webkit-transition-property:color;
+  -webkit-transition-timing-function:ease-in-out;
+}
+
+#logo {
+  background: url(/images/bormio.png) no-repeat;
+  width: 292px;
+  height: 67px;
+  margin: 70px 0px 160px 0px;
+  display: block;  
+}
+#logo span {
+  display: none;  
+}
+
+.cistic {
+  clear: both;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 15px;
+  color: #0c2c4a;
+  margin: 0px auto;
+  padding: 70px 0px 0px 0px;
+  width: 269px;
+  text-align: center;
+}
+h1 span {
+  display: none;
+}
+
+h2 {
+  font-size: 30px;
+  color: #0c2c4a;
+  margin: 15px 0px 15px 0px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #0075b9;
+  -margin: 0px 0px 5px 0px;
+  margin: -8px 0px 5px 170px;
+}
+h4 {
+  color:#0c2c4a;
+  font-size:20px;
+}
+
+.dunanad {
+  background: url(/images/duna_verde.png) no-repeat;
+  width: 269px;
+  height: 50px;
+  display: block;  
+}
+.wrap {
+  margin: 0px auto;
+  width: 990px;
+  padding: 100px 0px 0px 0px;
+}
+
+.strom {
+  float: right;
+  padding: 0px 50px 0px 0px;
+}
+.velkafotka {
+  margin: 0px 0px 50px 0px;
+}
+
+
+
+
+
+
+/*   PAGE   */
+#page {
+  margin: 0px auto;
+  width: 990px;
+  padding: 0px 0px 0px 0px;
+  color: #0c2c4a;
+}
+
+#page em {
+  font-style: italic;
+}
+
+#page strong {
+  font-weight: bold;
+}
+
+
+/*   CONTENT   */
+#content {
+  width: 990px;
+}
+
+#obsah {
+  text-align: justify;
+}
+
+#leva {
+  width: 465px;
+  margin: 30px 60px 0px 0px;
+  float: left;
+}
+#leva p {
+  margin: 0px 0px 30px 0px;
+}
+
+.obrazek {
+  float: left;
+  border: 0px;
+  margin: 1px 20px 10px 0px;
+}
+
+.region {
+  background: url(/images/mapa.png) no-repeat;
+  width: 252px;
+  height: 308px;
+  margin: 350px 0px 20px 0px;
+  padding: 80px 0px 0px 230px;
+}
+
+
+
+#prava {
+  width: 465px;
+  float: left;
+  margin: 30px 0px 0px 0px;
+}
+
+.zajezd {
+  width: 465px;
+  float: left;
+  height: 180px;
+  margin: 0px 0px 0px 0px;
+}
+
+.ubytovani {
+  width: 990px;
+  float: left;
+  margin: 30px 0px 30px 0px;
+}
+
+.cena {
+  float: left;
+  padding: 5px 15px 0px 110px; 
+}
+
+.zajezd_obsah {
+  background: #0c2c4a;
+  width: 445px;
+  height: 105px;
+  padding: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  margin: 0px 0px 10px 0px;
+}
+.zajezd_obsah img {
+  float: left;
+  margin: 0px 20px 0px 0px;
+}
+.zajezd_obsah p {
+  float: left;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  color: #fff;
+  text-align: justify;
+  font-size: 12px;
+  width: 270px;
+}
+
+.butvice {
+  background: url(/images/but.png) no-repeat;
+    background-position: 0px -30px;
+  width: 135px;
+  height: 30px;
+  display: block;
+  float: left; 
+}
+
+.butvice span {
+  display: none;
+}
+
+.butvice:hover {
+  background-position: 0px 0px;
+}
+
+.banners {
+  width: 990px;
+  float: left;
+  margin: 20px 0px 30px 0px;
+}
+.banner {
+  float: left;
+  margin: 0px 0px 0px 0px;
+}
+
+.seo {
+  float: left;
+  padding: 10px 30px 10px 30px;
+  -width: 551px;
+  width: 605px;
+  text-align: center;
+  height: 55px;
+  -margin: 0px 0px 0px 190px;
+  margin: 0px 0px 0px 170px;
+}
+
+ 
+
+
+
+
+/*   FOOTER   */
+#footer {
+  width: 990px;
+  height: 14px;
+  float: left;
+  color: #0c2c4a;
+  text-align: center;
+  margin: 20px 0px 40px 0px;
+  padding: 30px 0px 0px 0px; 
+}
+
+
+
+
+
+
+
+
+
